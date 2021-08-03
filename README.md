@@ -1,2 +1,2 @@
 # AI
- python projects, 
+ awesome projects on machine learni
